@@ -2,16 +2,16 @@
 ## 진행상황
 
 ### 01. Kotlin 
-1주차 : 인프런 새차원 코틀린 강의 01`~`04강 학습 및 정리
-2주차 : 인프런 새차원 코틀린 강의 05강`~`10강 
+- 1주차 : 인프런 새차원 코틀린 강의 01`~`04강 학습 및 정리
+- 2주차 : 인프런 새차원 코틀린 강의 05강`~`10강 
 
 ### 02. AWS
-1주차 : AWS 회원가입
-2주차 : AWS php-sample-app Server 튜토리얼 & 테스트서버 올려보기 
+- 1주차 : AWS 회원가입
+- 2주차 : AWS php-sample-app Server 튜토리얼 & 테스트서버 올려보기 
 
 ### 03. Spring
-1주차 : 온라인평생교육원 Spring Framework 이러닝 01강 수강 
-2주차 : 온라인평생교육원 Spring Framework 이러닝 02강 수강
+- 1주차 : 온라인평생교육원 Spring Framework 이러닝 01강 수강 
+- 2주차 : 온라인평생교육원 Spring Framework 이러닝 02강 수강
 
 #### 기타
 - 코틀린 강의 링크 :  https://www.inflearn.com/course/%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B0%95%EC%A2%8C-%EC%83%88%EC%B0%A8%EC%9B%90/
